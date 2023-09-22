@@ -1,5 +1,4 @@
-# Blog-App-using-MERN-stack
-Blog App also visit https://github.com/khushi2706/E-commerce-website-using-React-Redux 
+
 
 # Functionalities 
 - Authentication 
